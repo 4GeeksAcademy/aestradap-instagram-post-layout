@@ -1,0 +1,40 @@
+
+body{
+    background: black;
+    padding:10% 10%;
+}
+
+.post{
+    width: 100%;
+    max-width: 900px;
+    margin:0 auto;
+    background-color: white;
+
+}
+
+.post-header{
+    padding: 15px;
+
+}
+
+.post-img img{
+    width: 100%;
+}
+
+.post-body{
+    padding: 15px;
+
+}
+
+.post-icons{
+    padding: 15px;
+    position:relative;
+}
+.to-end-icon{
+    position:absolute;
+    right: 0;
+    width: 3%;
+}
+.img-icon {
+    width: 4%;
+}
